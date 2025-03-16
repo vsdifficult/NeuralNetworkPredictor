@@ -1,5 +1,5 @@
 # NeuralNetworkPredictor 
 ```
-https://github.com/vsdifficult/NeuralNetworkPredictor.git
+git clone https://github.com/vsdifficult/NeuralNetworkPredictor.git
 dotnet run
 ```
